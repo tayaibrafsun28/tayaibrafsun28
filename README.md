@@ -16,6 +16,7 @@
 
 ###
 
+<br>
 <h3 align="left">About Me:</h3>
 
 ###
@@ -23,6 +24,7 @@
 <p align="left">- 🔭 Pursuing undergraduate degree in Computer Science at the University of Asia Pacific  <br><br>- 🌱 Currently learning Tailwind CSS, ReactJS, NodeJS, and MongoDB for full-stack development  <br><br>- 🤝 Open to collaborating on front-end projects and innovative web applications <br><br>- ⚡ I enjoy exploring new technologies and improving my web development skills</p>
 
 ###
+<br>
 
 <h3 align="left">Technologies</h3>
 
@@ -53,6 +55,7 @@
 </div>
 
 ###
+<br>
 
 <h3 align="left">Social Links</h3>
 
