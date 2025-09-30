@@ -17,7 +17,6 @@
 ###
 
 <h3 align="left">About Me:</h3>
-<br>
 
 ###
 
@@ -26,7 +25,6 @@
 ###
 
 <h3 align="left">Technologies</h3>
-<br>
 
 ###
 
@@ -57,7 +55,6 @@
 ###
 
 <h3 align="left">Social Links</h3>
-<br>
 
 ###
 
