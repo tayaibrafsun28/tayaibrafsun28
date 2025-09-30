@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🔭 Pursuing undergraduate degree in Computer Science at the University of Asia Pacific  <br><br>- 🌱 Currently learning Tailwind CSS, ReactJS, NodeJS, and MongoDB for full-stack development  <br><br>- 🤝 Open to collaborating on front-end projects and innovative web applications  <br><br>- 📫 Reach me at: [tayaibrafsun28@gmail.com](mailto:tayaibrafsun28@gmail.com)  <br><br>- ⚡ I enjoy exploring new technologies and improving my web development skills</p>
+<p align="left">- 🔭 Pursuing undergraduate degree in Computer Science at the University of Asia Pacific  <br><br>- 🌱 Currently learning Tailwind CSS, ReactJS, NodeJS, and MongoDB for full-stack development  <br><br>- 🤝 Open to collaborating on front-end projects and innovative web applications <br><br>- ⚡ I enjoy exploring new technologies and improving my web development skills</p>
 
 ###
 
